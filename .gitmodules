@@ -1,0 +1,3 @@
+[submodule "fxbe"]
+	path = fxbe
+	url = https://git.wquintal.ca/berlingoqc/fxbe
